@@ -6,4 +6,4 @@
 -->
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning the basics of machine learning
-- I'm interested in data analysis and data science. Feel free to explore any of the projects on my portfolio
+- 🔭 I'm interested in data analysis and data science. Feel free to explore any of the projects on my portfolio
